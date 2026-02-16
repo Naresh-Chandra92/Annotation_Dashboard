@@ -6,7 +6,7 @@ A comprehensive Power BI analytics solution built to monitor and improve annotat
 
 ## 📊 Business Context
 
-During my time as a BI Analyst at Microsoft India, I worked with a team of 40 annotators processing AI training data. Leadership needed visibility into three critical areas:
+During my time as a BI Analyst, I worked with a team of 40 annotators processing AI training data. Leadership needed visibility into three critical areas:
 - Quality consistency across the team
 - Individual productivity and throughput
 - Resource planning and attendance patterns
