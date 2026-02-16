@@ -1,6 +1,6 @@
 # Annotation Quality & Productivity Dashboard
 
-A comprehensive Power BI analytics solution built to monitor and improve annotation team performance at Microsoft India. This dashboard helped leadership make data-driven decisions that improved workflow efficiency by 25%.
+A comprehensive Power BI analytics solution built to monitor and improve annotation team performance. This dashboard helped leadership make data-driven decisions that improved workflow efficiency by 25%.
 
 ---
 
@@ -196,12 +196,6 @@ This project showcases:
 - Conditional formatting and UX design
 - Stakeholder-focused visualization
 - Business problem solving through analytics
-
----
-
-## 📸 Dashboard Preview
-
-*[Add screenshots of your dashboard pages here once completed]*
 
 ---
 
